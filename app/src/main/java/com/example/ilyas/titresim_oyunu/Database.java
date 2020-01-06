@@ -17,7 +17,7 @@ public class Database extends SQLiteOpenHelper {
     public static final int DATABASE_VERSION = 1;
 
 
-    public static final String GIRIS_SKOR = "table_skorlar";          //giris cıkış tablosu satırları
+    public static final String GIRIS_SKOR = "table_skorlar";              	//giris cıkış tablosu satırları
     public static final String ROW_ID_SKOR = "id_skor";
     public static final String ROW_ADI_SOYADI="adi_soyadi";
     public static final String SKOR = "skor";
