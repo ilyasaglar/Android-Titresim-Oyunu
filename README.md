@@ -1,4 +1,4 @@
-Android Studio kullanarak geliştirdigim titresim oyunu.
+Android Studio, JAVA ve SQLİTE kullanarak geliştirdigim titresim oyunu.
 
 Telefonu 10 saniye boyunca ne kadar fazla salalrsan o kadar puan aldıgın bir, basit bir oyun geliştirdim.
 
